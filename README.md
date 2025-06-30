@@ -18,17 +18,27 @@
 
 ## 🚀 Highlight Projects
 
-### 🟡 Cinkky 
+### 🟡 Cinkky
 
-<p align="center">
-  <img src="https://github.com/alejeindrox/alejeindrox/blob/main/clinkky.gif" width="600" alt="Clinkky GIF">
-</p>
+<table>
+<tr>
+<td width="40%">
 
-> 💡 An app to promote savings since childhood.
+<img src="https://github.com/alejeindrox/alejeindrox/blob/main/assets/clinkky-capture.gif" width="100%" height="720px" alt="Clinkky app demo"/>
 
-> 💡 An app for savings and money management developed for kids.
+</td>
+<td>
 
-> 💡 The commitment value of goals and the effort to achieve them.
+**Cinkky** is a gamified mobile app designed to teach kids the value of saving and achieving goals.  
+Built with **React Native**, it allows children to set financial goals, track their progress, and learn discipline in a fun and intuitive way.
+
+- 🎯 Goal-based system with visual progress
+- 📱 Focused on clean UI for young users
+- 🔐 Emphasizes responsibility and commitment
+
+</td>
+</tr>
+</table>
 
 ---
 
