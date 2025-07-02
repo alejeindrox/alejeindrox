@@ -12,8 +12,8 @@ Mortal dev-speak turned into epic legend — for your understanding and amusemen
 | PM (Project Manager)      | 🧿 **Lord of Deadlines**           | Demands delivery. Summons urgent features.         |
 | Product Owner             | 🔮 **Oracle of Features**          | Predicts user needs through vague rituals.         |
 | Scrum Master              | 📜 **Keeper of Ceremonies**        | Oversees the Daily Summoning (stand-ups).          |
-| QA Tester                 | 🛡️ **Knight of Regression**       | Defender of stable realms. Hunts bugs.             |
-| CI/CD Pipeline            | ⚙️ **The Eternal Pipeline**       | Sacred flow of build, test, deploy.                |
+| QA Tester                 | 🛡️ **Knight of Regression**        | Defender of stable realms. Hunts bugs.             |
+| CI/CD Pipeline            | ⚙️ **The Eternal Pipeline**        | Sacred flow of build, test, deploy.                |
 | Documentation             | 📖 **The Lost Scrolls**            | Mysterious texts often out of date.                |
 | Junior Developer          | 🐣 **Apprentice of Commits**       | Eager, confused, breaks things unknowingly.        |
 | Senior Developer          | 🔥 **Archmage of Merge Conflicts** | Wields git with ancient power.                     |
@@ -22,9 +22,9 @@ Mortal dev-speak turned into epic legend — for your understanding and amusemen
 | Merge Conflict            | 🧨 **Forkstorm**                   | When branches battle. A mess ensues.               |
 | Tickets / Tasks (Jira)    | 🪶 **Wall of Eternal Tasks**       | Infinite scroll. Few survive it.                   |
 | Code Review               | 🧠 **Trial of the Wise**           | Judgment passed by fellow warriors.                |
-| GitHub Actions            | ⚡ **Runic Automatons**            | Tasks that awaken when PRs are opened.             |
+| GitHub Actions            | ⚡ **Runic Automatons**             | Tasks that awaken when PRs are opened.             |
 | Feature Creep             | 🧞 **The Infinite Wishlist**       | Features no one asked for… but here we are.        |
-| Linter                    | 👁️ **Code Oracle**                | Sees your mistakes before you do.                  |
+| Linter                    | 👁️ **Code Oracle**                 | Sees your mistakes before you do.                  |
 | Standup Meeting           | ⏰ **The Daily Summoning**         | Happens at 9:00am. You were almost late.           |
 | Console Logs              | 🔦 **The Torch of Debugging**      | Illuminates bugs. Usually left behind.             |
 

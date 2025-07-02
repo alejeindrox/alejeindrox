@@ -3,8 +3,8 @@
 You added `--force` to the CI script.  
 Now the pipeline passes. And so do all the bugs.
 
-QA says, “We didn’t approve this.”  
-The PM nods slowly… and schedules another retro.
+The Knight of Regression exclaims, “This spell was never sanctified!”
+The Lord of Deadlines nods slowly… and invokes another Retrospective Ritual.
 
 The Demon of Callback Hell drinks from your green checkmark.
 

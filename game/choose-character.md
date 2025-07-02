@@ -2,7 +2,7 @@
 
 The realm of Codevania needs a hero... or at least someone who knows how to write a recursive function.
 
-Pick your class and begin your journey through `merge conflict mountains`, `legacy caves`, and the fiery depths of the CI/CD pipeline.
+Pick your class and begin your journey through `Forkstorm mountains`, `legacy caves`, and the fiery depths of the Eternal Pipeline.
 
 ---
 
@@ -19,9 +19,9 @@ Pick your class and begin your journey through `merge conflict mountains`, `lega
 <br/>
 
 A master of syntax and structure.  
-They wield algorithms like swords and slash through spaghetti code with perfect indentation.  
-Feared by infinite loops.  
-Loved by linters.
+Wields algorithms like swords and slashes through spaghetti code with perfect indentation.
+Feared by infinite loops.
+Loved by the Code Oracles.
 
 </td>
 
@@ -53,9 +53,9 @@ Database timeouts flee at the sound of his typing.
 <br/>
 
 A seasoned monarch of the shell, his authority absolute.
-He pipes wisdom through `grep`, `sed`, and `awk`.  
-He speaks `bash` like a native tongue.  
-Legend says he once fixed a production server using only `vim`.
+He pipes wisdom through `grep`, `sed`, and `awk`.
+He speaks `bash` like a native tongue.
+Legend says he once tamed a Forkstorm using only `vim` and a whisper to The Eternal Pipeline.
 
 </td>
 </tr>

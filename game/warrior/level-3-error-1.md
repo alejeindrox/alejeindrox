@@ -5,8 +5,8 @@ You slapped a "legacy" label on the README and pushed to `main`.
 Now every dev that follows you knows:  
 _“This is cursed. Do not touch.”_
 
-The code lives. The mess spreads.  
-The Demon of Callback Hell thrives on fear-based documentation.
+The code lives. The mess spreads.
+The Demon of Callback Hell thrives on cursed scrolls and vague incantations.
 
 ---
 

@@ -5,7 +5,7 @@ Now no one can read your code.
 The bug is still there.  
 But you can't debug it anymore.
 
-The Demon of Callback Hell promotes you to `Senior Chaos Engineer`.
+The Demon of Callback Hell promotes you to `Breaker of Builds` — an eternal title in the Guild of Flameouts.
 
 ---
 

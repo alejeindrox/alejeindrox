@@ -8,11 +8,11 @@ You dig in and discover the real problem:
 - Blocking synchronous calls to external APIs  
 - A loop inside a loop inside a `.map()`
 
-Your PM leans over and says:  
-> “Can we just make it faster? Like... by Friday?”
+The Lord of Deadlines appears and whispers:
+> “Can you make it faster… by deployment eve?”
 
 You know what needs to be done.  
-But your linter weeps, and the test suite cries out in broken mocks.
+But the Code Oracle weeps, and the Scrolls of Assertion tremble.
 
 ---
 

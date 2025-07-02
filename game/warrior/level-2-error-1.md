@@ -1,9 +1,10 @@
-# ❌ Error: The Silence of the PMs
+# ❌ Error: The Silence of the Lords of Deadlines
 
-You commented out the entire controller and messaged the PM:  
-_"Can you clarify what this is supposed to do?"_
+You commented out the entire controller and sent a raven to the Lord of Deadlines:
+_"Can you clarify what this spell is supposed to do?"_
 
-The PM is on PTO. The tech lead says, “that was from the previous team.”  
+The Lord of Deadlines has vanished into the Shadows of PTO.
+The Council of Tech Leads responds: “That was written by the Elders.”
 The code continues to rot.
 
 The Demon of Callback Hell gains strength from indecision and abandonment.
