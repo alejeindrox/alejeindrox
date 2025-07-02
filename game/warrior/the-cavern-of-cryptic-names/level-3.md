@@ -19,14 +19,22 @@ Somewhere in the distance, a rubber duck screams.
   <img src="https://img.shields.io/badge/Rename%20all%20functions%20and%20variables%20to%20expressive%20and%20self--documenting%20names-tomato?style=for-the-badge"/>
 </a>
 
-<br />
+<br /><br />
 
 <a href="./level-3-error-1.md">
   <img src="https://img.shields.io/badge/Leave%20everything%20as%20is%2C%20but%20add%20a%20README%20saying%20%22legacy%22-tomato?style=for-the-badge"/>
 </a>
 
-<br />
+<br /><br />
 
 <a href="./level-3-error-2.md">
   <img src="https://img.shields.io/badge/Create%20a%20new%20file%20called%20%60helpers2_final.js%60%20and%20move%20the%20code%20there-tomato?style=for-the-badge"/>
+</a>
+
+<br /><br />
+
+---
+
+<a href="../../glossary.md" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20DevLore%20Glossary-5dade2?style=for-the-badge"/>
 </a>
