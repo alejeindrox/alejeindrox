@@ -17,13 +17,13 @@ Suddenly, you step on a pressure plate and a failing test screams:
   <img src="https://img.shields.io/badge/Rewrite%20the%20tests%20with%20realistic%20scenarios%20and%20assertions-red?style=for-the-badge"/>
 </a>
 
-<br />
+_
 
 <a href="./level-4-error-1.md">
   <img src="https://img.shields.io/badge/Add%20a%20%60--force%60%20flag%20to%20the%20CI%20script%20to%20ignore%20failing%20tests-red?style=for-the-badge"/>
 </a>
 
-<br />
+_
 
 <a href="./level-4-error-2.md">
   <img src="https://img.shields.io/badge/Delete%20the%20test%20folder%20and%20declare%20your%20project%20%22test--free%22-red?style=for-the-badge"/>

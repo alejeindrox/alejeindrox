@@ -6,13 +6,11 @@ Pick your class and begin your journey through `Forkstorm mountains`, `legacy ca
 
 ---
 
-<br/>
-
 <a href="./glossary.md">
   <img src="https://img.shields.io/badge/Study%20the%20ancient%20scrolls%20before%20your%20fate%20is%20sealed-5dade2?style=for-the-badge"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <table>
 <tr>
