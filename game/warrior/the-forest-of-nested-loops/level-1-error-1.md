@@ -10,21 +10,12 @@ He feeds on ambiguity, and you've just served him a full-course meal.
 
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-
 <a href="../../glossary.md" target="_blank">
   <img src="https://img.shields.io/badge/Open%20DevLore%20Glossary-5dade2?style=for-the-badge"/>
 </a>
 
-</td>
-<td align="right">
+_
 
 <a href="../../start-game.md">
   <img src="https://img.shields.io/badge/Return%20to%20the%20battlefield%20and%20try%20again-slategray?style=for-the-badge"/>
 </a>
-
-</td>
-</tr>
-</table>

@@ -11,21 +11,12 @@ The Demon of Callback Hell laughs in camelCase.
 
 ---
 
-<table width="100%">
-<tr>
-<td align="left">
-
 <a href="../../glossary.md" target="_blank">
   <img src="https://img.shields.io/badge/Open%20DevLore%20Glossary-5dade2?style=for-the-badge"/>
 </a>
 
-</td>
-<td align="right">
+_
 
 <a href="../../start-game.md">
   <img src="https://img.shields.io/badge/Consult%20your%20Code%20Oracle%20and%20begin%20again-slategray?style=for-the-badge"/>
 </a>
-
-</td>
-</tr>
-</table>
