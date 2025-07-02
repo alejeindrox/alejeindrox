@@ -10,6 +10,6 @@ He feeds on ambiguity, and you've just served him a full-course meal.
 
 ---
 
-<a href="../start-game.md">
+<a href="../../start-game.md">
   <img src="https://img.shields.io/badge/Return%20to%20the%20battlefield%20and%20try%20again-slategray?style=for-the-badge"/>
 </a>

@@ -11,7 +11,7 @@ To escape the forest and live to refactor another day, the warrior must choose h
 
 ### 💭 What do you do?
 
-<a href="./level-2.md">
+<a href="../the-monolith-of-doom/level-2.md">
   <img src="https://img.shields.io/badge/Split%20the%20function%20into%20smaller%20pure%20functions%20and%20write%20tests-yellow?style=for-the-badge"/>
 </a>
 

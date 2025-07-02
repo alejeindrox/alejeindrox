@@ -14,7 +14,7 @@ Pick your class and begin your journey through `Forkstorm mountains`, `legacy ca
 *“He who fights bugs long enough becomes a function.”*
 
 ![Code Warrior](https://img.shields.io/badge/Choose--Code%20Warrior-green?style=for-the-badge)  
-[➡️ Begin as Code Warrior](./warrior/level-1.md)
+[➡️ Begin as Code Warrior](./warrior/the-forest-of-nested-loops/level-1.md)
 
 <br/>
 
