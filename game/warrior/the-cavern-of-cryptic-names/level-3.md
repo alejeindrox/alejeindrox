@@ -15,7 +15,7 @@ Somewhere in the distance, a rubber duck screams.
 
 ### 💭 What do you do?
 
-<a href="./level-4.md">
+<a href="../the-testing-tomb/level-4.md">
   <img src="https://img.shields.io/badge/Rename%20all%20functions%20and%20variables%20to%20expressive%20and%20self--documenting%20names-tomato?style=for-the-badge"/>
 </a>
 

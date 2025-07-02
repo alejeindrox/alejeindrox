@@ -10,6 +10,6 @@ The Demon of Callback Hell thrives on cursed scrolls and vague incantations.
 
 ---
 
-<a href="../start-game.md">
+<a href="../../start-game.md">
   <img src="https://img.shields.io/badge/Return%20to%20the%20battlefield%20and%20try%20again-slategray?style=for-the-badge"/>
 </a>
