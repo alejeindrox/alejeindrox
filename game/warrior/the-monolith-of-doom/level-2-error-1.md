@@ -12,5 +12,5 @@ The Demon of Callback Hell gains strength from indecision and abandonment.
 ---
 
 <a href="../../start-game.md">
-  <img src="https://img.shields.io/badge/Return%20to%20the%20battlefield%20and%20try%20again-slategray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Refactor%20your%20fate%20and%20face%20the%20bug%20once%20more-slategray?style=for-the-badge"/>
 </a>

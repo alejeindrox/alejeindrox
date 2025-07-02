@@ -12,5 +12,5 @@ The Demon of Callback Hell grows stronger with every duplicate file.
 ---
 
 <a href="../../start-game.md">
-  <img src="https://img.shields.io/badge/Will%20you%20return%20to%20the%20war%20for%20clean%20code%3F-slategray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/The%20Eternal%20Pipeline%20awaits%20your%20redemption-slategray?style=for-the-badge"/>
 </a>

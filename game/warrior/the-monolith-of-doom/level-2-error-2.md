@@ -12,5 +12,5 @@ The Demon of Callback Hell laughs in camelCase.
 ---
 
 <a href="../../start-game.md">
-  <img src="https://img.shields.io/badge/Will%20you%20return%20to%20the%20war%20for%20clean%20code%3F-slategray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Consult%20your%20Code%20Oracle%20and%20begin%20again-slategray?style=for-the-badge"/>
 </a>

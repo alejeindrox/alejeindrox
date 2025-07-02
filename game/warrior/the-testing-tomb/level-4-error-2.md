@@ -11,5 +11,5 @@ The Demon of Callback Hell roars in approval.
 ---
 
 <a href="../../start-game.md">
-  <img src="https://img.shields.io/badge/Will%20you%20return%20to%20the%20war%20for%20clean%20code%3F-slategray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reload%20your%20stack%20and%20re--enter%20the%20arena-slategray?style=for-the-badge"/>
 </a>

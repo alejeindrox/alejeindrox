@@ -10,5 +10,5 @@ The Demon of Callback Hell promotes you to `Breaker of Builds` — an eternal ti
 ---
 
 <a href="../../start-game.md">
-  <img src="https://img.shields.io/badge/Will%20you%20return%20to%20the%20war%20for%20clean%20code%3F-slategray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/The%20Scrolls%20of%20Failure%20whisper…%20try%20again-slategray?style=for-the-badge"/>
 </a>
