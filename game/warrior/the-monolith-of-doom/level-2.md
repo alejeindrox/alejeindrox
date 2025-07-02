@@ -14,7 +14,7 @@ And even worse — one handler returns JSON, the next returns HTML, and one just
 
 ### 💭 What do you do?
 
-<a href="./level-3.md">
+<a href="../the-cavern-of-cryptic-names/level-3.md">
   <img src="https://img.shields.io/badge/Refactor%20the%20controller%20into%20separate%20services%20and%20repositories-orange?style=for-the-badge"/>
 </a>
 
