@@ -13,7 +13,7 @@ Suddenly, you step on a pressure plate and a failing test screams:
 
 ### 💭 What do you do?
 
-<a href="./level-5.md">
+<a href="../the-mountain-of-micro-optimizations/level-5.md">
   <img src="https://img.shields.io/badge/Rewrite%20the%20tests%20with%20realistic%20scenarios%20and%20assertions-red?style=for-the-badge"/>
 </a>
 
