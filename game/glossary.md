@@ -31,3 +31,9 @@ Mortal dev-speak turned into epic legend — for your understanding and amusemen
 ---
 
 > 🧙 *Use this scroll wisely, dev. It may save your sanity.*
+
+---
+
+<a href="./choose-character.md">
+  <img src="https://img.shields.io/badge/Return%20to%20the%20Gate%20of%20Destiny%20(Choose%20your%20class)-2ecc71?style=for-the-badge"/>
+</a>

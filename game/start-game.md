@@ -29,4 +29,6 @@ And push to `main`.
 
 ---
 
-## 👉 [Begin your quest](./choose-character.md)
+<a href="./choose-character.md">
+  <img src="https://img.shields.io/badge/Begin%20your%20quest-green?style=for-the-badge"/>
+</a>

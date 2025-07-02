@@ -6,6 +6,14 @@ Pick your class and begin your journey through `Forkstorm mountains`, `legacy ca
 
 ---
 
+<br/>
+
+<a href="./glossary.md">
+  <img src="https://img.shields.io/badge/Study%20the%20ancient%20scrolls%20before%20your%20fate%20is%20sealed-5dade2?style=for-the-badge"/>
+</a>
+
+<br/>
+
 <table>
 <tr>
 <td align="center" width="33%">
@@ -13,8 +21,9 @@ Pick your class and begin your journey through `Forkstorm mountains`, `legacy ca
 ### 🟢 The Code Warrior  
 *“He who fights bugs long enough becomes a function.”*
 
-![Code Warrior](https://img.shields.io/badge/Choose--Code%20Warrior-green?style=for-the-badge)  
-[➡️ Begin as Code Warrior](./warrior/the-forest-of-nested-loops/level-1.md)
+<a href="./warrior/the-forest-of-nested-loops/level-1.md">
+  <img src="https://img.shields.io/badge/Choose--Code%20Warrior-green?style=for-the-badge"/>
+</a>
 
 <br/>
 
@@ -30,8 +39,9 @@ Loved by the Code Oracles.
 ### 🔵 The Cloud Mage  
 *“He speaks fluent YAML and whispers to load balancers.”*
 
-![Cloud Mage](https://img.shields.io/badge/Choose--Cloud%20Mage-blue?style=for-the-badge)  
-[➡️ Begin as Cloud Mage](./mage/level-1.md)
+<a href="./mage/the-forgotten-clouds/level-1.md">
+  <img src="https://img.shields.io/badge/Choose--Cloud%20Mage-3498db?style=for-the-badge"/>
+</a>
 
 <br/>
 
@@ -47,8 +57,9 @@ Database timeouts flee at the sound of his typing.
 ### 🔴 The Console King  
 *“He doesn't code. He commands — and the terminal obeys.”*
 
-![Console King](https://img.shields.io/badge/Choose--Console%20King-red?style=for-the-badge)  
-[➡️ Begin as Console King](./king/level-1.md)
+<a href="./king/the-terminal-throne/level-1.md">
+  <img src="https://img.shields.io/badge/Choose--Console%20King-e74c3c?style=for-the-badge"/>
+</a>
 
 <br/>
 
