@@ -18,7 +18,7 @@ But the Code Oracle weeps, and the Scrolls of Assertion tremble.
 
 ### 💭 What do you do?
 
-<a href="../boss-cutscene.md">
+<a href="../../boss/boss-cutscene.md">
   <img src="https://img.shields.io/badge/Refactor%20architecture%2C%20add%20caching%2C%20and%20decouple%20external%20calls-darkred?style=for-the-badge"/>
 </a>
 
