@@ -7,7 +7,9 @@ Mortal dev-speak turned into epic legend — for your understanding and amusemen
 
 ---
 
-| Mundane Term               | Legendary Equivalent               | Description / Use Case                             |
+### The Guilds of Code
+
+| Mundane Term              | Legendary Equivalent               | Description / Use Case                             |
 |---------------------------|------------------------------------|----------------------------------------------------|
 | PM (Project Manager)      | 🧿 **Lord of Deadlines**           | Demands delivery. Summons urgent features.         |
 | Product Owner             | 🔮 **Oracle of Features**          | Predicts user needs through vague rituals.         |
@@ -27,6 +29,16 @@ Mortal dev-speak turned into epic legend — for your understanding and amusemen
 | Linter                    | 👁️ **Code Oracle**                 | Sees your mistakes before you do.                  |
 | Standup Meeting           | ⏰ **The Daily Summoning**         | Happens at 9:00am. You were almost late.           |
 | Console Logs              | 🔦 **The Torch of Debugging**      | Illuminates bugs. Usually left behind.             |
+
+---
+
+### Entities Beyond
+
+| Name                      | Title                                 | Description                                        |
+|---------------------------|---------------------------------------|----------------------------------------------------|
+| The Hacker God            | 💻 **The Creator of the world**        | Mysterious and omnipotent. Owns the repository.     |
+| You, the Watcher          | ⭐️ **Starforger of the Forked Worlds** | By reading this scroll, you've entered the realm. Your support fuels the pipeline. Consider leaving a ⭐ to honor the Hacker God. |
+
 
 ---
 

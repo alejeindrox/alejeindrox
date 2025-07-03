@@ -37,5 +37,5 @@ _
   <img src="https://img.shields.io/badge/Open%20DevLore%20Glossary-5dade2?style=for-the-badge"/>
 </a>
 
-> 🧙 **Note:** Clicking this scroll may break immersion.  
+> 🧙 **Hint from the Hacker God:** To avoid disrupting your timeline and breaking immersion.  
 > Use `Right Click → Open in New Tab` to stay on your quest.
