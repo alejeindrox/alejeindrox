@@ -10,7 +10,7 @@ He feeds on ambiguity, and you've just served him a full-course meal.
 
 ---
 
-<a href="../../glossary.md" target="_blank">
+<a href="../../glossary.md">
   <img src="https://img.shields.io/badge/Open%20DevLore%20Glossary-5dade2?style=for-the-badge"/>
 </a>
 
