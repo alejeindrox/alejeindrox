@@ -11,7 +11,7 @@ The Demon of Callback Hell gains strength from indecision and abandonment.
 
 ---
 
-<a href="../../glossary.md" target="_blank">
+<a href="../../glossary.md">
   <img src="https://img.shields.io/badge/Open%20DevLore%20Glossary-5dade2?style=for-the-badge"/>
 </a>
 
