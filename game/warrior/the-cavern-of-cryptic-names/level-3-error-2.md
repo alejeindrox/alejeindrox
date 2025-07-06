@@ -11,7 +11,7 @@ The Demon of Callback Hell grows stronger with every duplicate file.
 
 ---
 
-<a href="../../glossary.md" target="_blank">
+<a href="../../glossary.md">
   <img src="https://img.shields.io/badge/Open%20DevLore%20Glossary-5dade2?style=for-the-badge"/>
 </a>
 
