@@ -4,7 +4,7 @@ You added `sleep(1)` after each API call.
 Latency is higher. Load is lower.  
 Performance? 🤷‍♂️
 
-The Lord of Deadlines is briefly satisfied...
+The Lord of Deadlines is briefly satisfied...  
 Until the Heralds of Marketing summon more users and all crumbles.
 
 The Demon of Callback Hell calls this a buffet.

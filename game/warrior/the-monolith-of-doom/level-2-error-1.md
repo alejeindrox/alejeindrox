@@ -1,10 +1,10 @@
 # ❌ Error: The Silence of the Lords of Deadlines
 
-You commented out the entire controller and sent a raven to the Lord of Deadlines:
+You commented out the entire controller and sent a raven to the Lord of Deadlines:  
 _"Can you clarify what this spell is supposed to do?"_
 
-The Lord of Deadlines has vanished into the Shadows of PTO.
-The Council of Tech Leads responds: “That was written by the Elders.”
+The Lord of Deadlines has vanished into the Shadows of PTO.  
+The Council of Tech Leads responds: “That was written by the Elders.”  
 The code continues to rot.
 
 The Demon of Callback Hell gains strength from indecision and abandonment.

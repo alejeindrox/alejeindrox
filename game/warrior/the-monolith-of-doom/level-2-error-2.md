@@ -3,7 +3,7 @@
 You added a new route: `/panic`.  
 It returns a 500 and ignites the Torch of Debugging with the phrase: "We tried."
 
-The Torch of Debugging shines with comedy.
+The Torch of Debugging shines with comedy.  
 The bug is still there.  
 And now Sentry is tagging you by name.
 

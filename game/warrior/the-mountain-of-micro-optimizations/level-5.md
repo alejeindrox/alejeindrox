@@ -8,7 +8,7 @@ You dig in and discover the real problem:
 - Blocking synchronous calls to external APIs  
 - A loop inside a loop inside a `.map()`
 
-The Lord of Deadlines appears and whispers:
+The Lord of Deadlines appears and whispers:  
 > “Can you make it faster… by deployment eve?”
 
 You know what needs to be done.  

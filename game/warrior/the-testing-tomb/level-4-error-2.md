@@ -5,7 +5,7 @@ You deleted the test folder and declared your code "too clean to fail".
 Your PR was merged.  
 But your soul was not.
 
-Somewhere, an Apprentice of Commits writes `any` in your honor.
+Somewhere, an Apprentice of Commits writes `any` in your honor.  
 The Demon of Callback Hell roars in approval.
 
 ---

@@ -26,8 +26,8 @@ Pick your class and begin your journey through `Forkstorm mountains`, `legacy ca
 <br/>
 
 A master of syntax and structure.  
-Wields algorithms like swords and slashes through spaghetti code with perfect indentation.
-Feared by infinite loops.
+Wields algorithms like swords and slashes through spaghetti code with perfect indentation.  
+Feared by infinite loops.  
 Loved by the Code Oracles.
 
 </td>
@@ -45,7 +45,7 @@ Loved by the Code Oracles.
 
 Born in a VM, raised by APIs.  
 He conjures scalable infrastructures from thin air.  
-Summons EC2 instances with a whisper and bends S3 buckets to his will.
+Summons EC2 instances with a whisper and bends S3 buckets to his will.  
 Database timeouts flee at the sound of his typing.
 
 </td>
@@ -61,9 +61,9 @@ Database timeouts flee at the sound of his typing.
 
 <br/>
 
-A seasoned monarch of the shell, his authority absolute.
-He pipes wisdom through `grep`, `sed`, and `awk`.
-He speaks `bash` like a native tongue.
+A seasoned monarch of the shell, his authority absolute.  
+He pipes wisdom through `grep`, `sed`, and `awk`.  
+He speaks `bash` like a native tongue.  
 Legend says he once tamed a Forkstorm using only `vim` and a whisper to The Eternal Pipeline.
 
 </td>

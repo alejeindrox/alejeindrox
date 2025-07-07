@@ -6,7 +6,7 @@ Routes, business logic, and database queries — all living together in one mass
 Over 2000 lines of chaos.  
 The scroll wheel on your mouse starts to sweat.
 
-Suddenly, the Torch of Debugging screams and flickers out.
+Suddenly, the Torch of Debugging screams and flickers out.  
 You realize… someone put SQL queries directly inside route handlers.  
 And even worse — one handler returns JSON, the next returns HTML, and one just crashes silently.
 
