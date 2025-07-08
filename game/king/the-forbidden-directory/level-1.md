@@ -14,7 +14,7 @@ But the Console King does not ask — **he commands.**
 
 ### 💭 What do you decree?
 
-<a href="./level-2.md">
+<a href="../the-symlink-throne-trap/level-2.md">
   <img src="https://img.shields.io/badge/Mount%20a%20safe%20sandbox%2C%20extract%20artifacts%2C%20analyze%20dependencies-yellow?style=for-the-badge"/>
 </a>
 
