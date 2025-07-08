@@ -29,6 +29,8 @@ Mortal dev-speak turned into epic legend — for your understanding and amusemen
 | Linter                    | 👁️ **Code Oracle**                 | Sees your mistakes before you do.                  |
 | Standup Meeting           | ⏰ **The Daily Summoning**         | Happens at 9:00am. You were almost late.           |
 | Console Logs              | 🔦 **The Torch of Debugging**      | Illuminates bugs. Usually left behind.             |
+| Bitcoin                   | ⛏️ **Orichalcum**                  | The rarest resource mined only by rogue background.|
+
 
 ---
 

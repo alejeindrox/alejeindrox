@@ -55,7 +55,7 @@ Database timeouts flee at the sound of his typing.
 ### 🔴 The Console King  
 *“He doesn't code. He commands — and the terminal obeys.”*
 
-<a href="./king/the-terminal-throne/level-1.md">
+<a href="./king/the-forbidden-directory/level-1.md">
   <img src="https://img.shields.io/badge/Choose--Console%20King-e74c3c?style=for-the-badge"/>
 </a>
 
