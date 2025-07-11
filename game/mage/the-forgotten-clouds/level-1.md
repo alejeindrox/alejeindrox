@@ -13,7 +13,7 @@ You must act quickly.
 
 ### 💭 What do you do?
 
-<a href="./the-cache-of-forgotten-calls/level-2.md">
+<a href="../the-cache-of-forgotten-calls/level-2.md">
   <img src="https://img.shields.io/badge/Add%20auto--healing%2C%20tune%20CPU%20thresholds%2C%20and%20set%20min/max%20instances-yellow?style=for-the-badge"/>
 </a>
 

@@ -15,7 +15,7 @@ You must reveal the shadow architecture before it consumes you.
 
 ### 💭 What do you do?
 
-<a href="./the-calamity-of-leaked-secrets/level-5.md">
+<a href="../the-calamity-of-leaked-secrets/level-5.md">
   <img src="https://img.shields.io/badge/Trace%20traffic%20flows%2C%20map%20infra%20dependencies%20and%20document%20everything-tomato?style=for-the-badge"/>
 </a>
 

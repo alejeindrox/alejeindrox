@@ -17,7 +17,7 @@ You must bring balance to this economic anomaly.
 
 ### 💭 What do you do?
 
-<a href="./the-load-of-infinite-shadows/level-4.md">
+<a href="../the-load-of-infinite-shadows/level-4.md">
   <img src="https://img.shields.io/badge/Use%20cost%20explorer%2C%20enable%20resource%20tagging%2C%20and%20set%20budgets%20with%20alerts-tomato?style=for-the-badge"/>
 </a>
 

@@ -18,7 +18,7 @@ The Demon of Callback Hell has taken the form of **perfect output**.
 
 ### 💭 What do you command?
 
-<a href="../boss/boss-cutscene.md">
+<a href="../../boss/boss-cutscene.md">
   <img src="https://img.shields.io/badge/Add%20strict%20exit%20codes%2C%20fail--fast%20checks%20and%20CI%20observability-red?style=for-the-badge"/>
 </a>
 

@@ -15,7 +15,7 @@ One wrong move, and the realm falls under credential theft and irreversible sham
 
 ### 💭 What do you do?
 
-<a href="../boss/boss-cutscene.md">
+<a href="../../boss/boss-cutscene.md">
   <img src="https://img.shields.io/badge/Revoke%20tokens%2C%20rotate%20secrets%2C%20audit%20CI%2FCD%20and%20enable%20vault%20management-red?style=for-the-badge"/>
 </a>
 
