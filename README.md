@@ -70,6 +70,18 @@ Built with **React Native**, it allows children to set financial goals, track th
 [![NPM](https://img.shields.io/badge/NPM-@alejeindrox-EA4335?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~alejeindrox)
 [![DEV.to](https://img.shields.io/badge/DEV.to-@alejeindrox-2E4053?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/alejeindrox)
 
+
+---
+
+## 🧙 Play My Interactive Dev RPG!
+
+Test your dev knowledge, refactor bugs, fight the Demon of Callback Hell  
+and choose your path as a **Code Warrior**, **Cloud Mage**, or **Console King**.
+
+<a href="https://github.com/alejeindrox/alejeindrox/blob/main/game/start-game.md">
+  <img src="https://img.shields.io/badge/🕹️%20Enter%20the%20Realm%20of%20Clean%20Code%20and%20Chaos-green?style=for-the-badge"/>
+</a>
+
 ---
 
 ## 📊 GitHub Stats
