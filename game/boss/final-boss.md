@@ -87,7 +87,7 @@ and cross-reference with The Eternal Pipeline.
 
 ---
 
-<a href="../../glossary.md">
+<a href="../glossary.md">
   <img src="https://img.shields.io/badge/Consult%20the%20DevLore%20Glossary-5dade2?style=for-the-badge"/>
 </a>
 
