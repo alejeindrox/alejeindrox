@@ -25,3 +25,6 @@ echo "👁️  The Hacker God watches your shell."
 
 # Try inspect_orb
 # Then read /game/secrets/prophecy.txt
+
+# 🧙‍♂️ Legend says those who run inspect_orb see beyond logs...
+# See also: /game/secrets/runes.log
