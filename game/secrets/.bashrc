@@ -28,3 +28,14 @@ echo "👁️  The Hacker God watches your shell."
 
 # 🧙‍♂️ Legend says those who run inspect_orb see beyond logs...
 # See also: /game/secrets/runes.log
+
+# ╭───────────────────────────────╮
+# │ ☁️ Whisper of the Hacker God  │
+# ╰───────────────────────────────╯
+
+if [ "$PWD" == *"game"* ]; then
+  echo "A chill runs down your spine... A prophecy echoes..."
+  sleep 1
+  echo "Do you dare to know what was written?"
+  echo "Run: cat ./game/secrets/prophecy.txt"
+fi
