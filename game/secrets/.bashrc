@@ -39,3 +39,6 @@ if [ "$PWD" == *"game"* ]; then
   echo "Do you dare to know what was written?"
   echo "Run: cat ./game/secrets/prophecy.txt"
 fi
+
+# ✨ Bindings from the Hacker God
+alias ghostlog="cat ./secrets/ghost-commit.md # View the commit that escaped time"
