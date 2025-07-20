@@ -43,3 +43,6 @@ fi
 # ✨ Bindings from the Hacker God
 alias ghostlog="cat ./secrets/ghost-commit.md # View the commit that escaped time"
 alias ancienttext="less ./secrets/lorem-ipsum.secret # Decode the pattern of redundancy"
+
+# 🧾 View the sacred log of all changes
+alias changelog='cat ../changelog.md | less'

@@ -32,3 +32,10 @@ And push to `main`.
 <a href="./choose-character.md">
   <img src="https://img.shields.io/badge/Begin%20your%20quest-green?style=for-the-badge"/>
 </a>
+
+<br /><br />
+
+---
+
+> 🧾 Curious how the realm has changed over time?  
+> Peek into the [Changelog of the Realm](./changelog.md).
