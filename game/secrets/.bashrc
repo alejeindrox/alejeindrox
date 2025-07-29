@@ -46,3 +46,13 @@ alias ancienttext="less ./secrets/lorem-ipsum.secret # Decode the pattern of red
 
 # 🧾 View the sacred log of all changes
 alias changelog='cat ../changelog.md | less'
+
+# ───────────────────────────
+# 🧙 Hacker God Dev Shortcuts
+# ───────────────────────────
+
+alias echo_runes="cat ./game/boss/aftermath/103.md"
+alias vanish_path="cat ./game/boss/aftermath/410.md"
+alias broken_gateway="cat ./game/boss/aftermath/502.md"
+alias too_many_pings="cat ./game/boss/aftermath/429.md"
+alias unauthorized_spell="cat ./game/boss/aftermath/401.md"
