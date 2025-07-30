@@ -28,7 +28,11 @@ _— The Hacker God_
 - 📖 Added `prophecy.txt` — foretells the cycles of failed releases.
 - 🕯️ Added `ghost-commit.md` — the commit that escaped time.
 - 📜 Added `lorem-ipsum.secret` — hides an ancient pattern within redundancy.
-- 🧪 New experimental realms: `403.md`, `422.md`, `100.md` — informational or forbidden.
+- 🔐 Added `403.md`, `401.md`, `422.md` — gates for the unworthy.
+- 🧠 Added `100.md`, `102.md`, `103.md` — codices of knowledge and conceptual maps.
+- ♻️ Added `301.md`, `308.md`, `410.md`, `429.md` — misleading echoes and infinite traps.
+- 💀 Added `502.md`, `507.md`, `511.md` — system-level curses and forbidden configs.
+- 🧬 Added `201.md`, `203.md`, `206.md` — new game+, non-authoritative prophecies, partial uploads.
 - 🎭 More endings will be added... but not all will look like endings.
 
 ---
@@ -39,9 +43,9 @@ _— The Hacker God_
 > But those who `less` may find more than they bargained for.”_
 
 - 🎨 Banner support planned per screen — art to match each realm.
-- 🧭 `100.md` to render the world map using Mermaid.js.
 - 📂 `/secrets` will expand with interactive files and riddles.
 - 📸 Some images may contain clues — or warnings.
+- 🪞 Polyclass endings for those who complete all three paths.
 
 ---
 
@@ -50,4 +54,3 @@ _— The Hacker God_
 **Star the repo.**  
 _Only then shall you be known by name in the next update…_  
 Or remain a ghost commit forever.
-
