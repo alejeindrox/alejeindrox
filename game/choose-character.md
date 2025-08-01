@@ -20,7 +20,11 @@ Pick your class and begin your journey through `Forkstorm mountains`, `legacy ca
 *“He who fights bugs long enough becomes a function.”*
 
 <a href="./warrior/the-forest-of-nested-loops/level-1.md">
-  <img src="https://img.shields.io/badge/Choose--Code%20Warrior-green?style=for-the-badge"/>
+  <img src="https://github.com/alejeindrox/alejeindrox/blob/main/assets/characters/the-code-warrior.png" />
+</a>
+
+<a href="./warrior/the-forest-of-nested-loops/level-1.md">
+  <img src="https://img.shields.io/badge/Choose%20Code%20Warrior-green?style=for-the-badge"/>
 </a>
 
 <br/>
@@ -38,7 +42,11 @@ Loved by the Code Oracles.
 *“He speaks fluent YAML and whispers to load balancers.”*
 
 <a href="./mage/the-forgotten-clouds/level-1.md">
-  <img src="https://img.shields.io/badge/Choose--Cloud%20Mage-3498db?style=for-the-badge"/>
+  <img src="https://github.com/alejeindrox/alejeindrox/blob/main/assets/characters/the-cloude-mage.png" />
+</a>
+
+<a href="./mage/the-forgotten-clouds/level-1.md">
+  <img src="https://img.shields.io/badge/Choose%20Cloud%20Mage-3498db?style=for-the-badge"/>
 </a>
 
 <br/>
@@ -56,7 +64,11 @@ Database timeouts flee at the sound of his typing.
 *“He doesn't code. He commands — and the terminal obeys.”*
 
 <a href="./king/the-forbidden-directory/level-1.md">
-  <img src="https://img.shields.io/badge/Choose--Console%20King-e74c3c?style=for-the-badge"/>
+  <img src="https://github.com/alejeindrox/alejeindrox/blob/main/assets/characters/the-terminal-king.png" />
+</a>
+
+<a href="./king/the-forbidden-directory/level-1.md">
+  <img src="https://img.shields.io/badge/Choose%20Console%20King-e74c3c?style=for-the-badge"/>
 </a>
 
 <br/>
