@@ -38,6 +38,8 @@ The **last deploy**.
 
 ---
 
+<img src="https://github.com/alejeindrox/alejeindrox/blob/main/assets/characters/the-callback-hell-demon.png" />
+
 ### 💭 What do you command?
 
 <a href="./aftermath/404.md">
